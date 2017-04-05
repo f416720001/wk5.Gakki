@@ -60,7 +60,7 @@ $(document).ready(function() {
         }
         else $('header ul').css('margin-left', '5vw');
         if($(window).width() < 691) {
-          $('header ul').css('background-color', '#28D9ED');
+          $('header ul').css('background-color', '#e8f4de');
           $('header ul').css('border-radius', '3px');
         }
         else {
