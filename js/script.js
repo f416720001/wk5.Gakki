@@ -25,7 +25,7 @@ $(document).ready(function() {
     }
     else $('header ul').css('margin-left', '5vw');
     if($(window).width() < 691) {
-      $('header ul').css('background-color', '#e8f4de');
+      $('header ul').css('background-color', 'rgba(232,244,222,0.87)');
       $('header ul').css('border-radius', '3px');
     }
     else {
@@ -60,7 +60,7 @@ $(document).ready(function() {
         }
         else $('header ul').css('margin-left', '5vw');
         if($(window).width() < 691) {
-          $('header ul').css('background-color', '#e8f4de');
+          $('header ul').css('background-color', 'rgba(232,244,222,0.87)');
           $('header ul').css('border-radius', '3px');
         }
         else {
